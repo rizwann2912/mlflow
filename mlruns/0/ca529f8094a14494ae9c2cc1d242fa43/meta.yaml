@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ca529f8094a14494ae9c2cc1d242fa43/artifacts
+end_time: 1749903915472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca529f8094a14494ae9c2cc1d242fa43
+run_name: valuable-auk-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749903915402
+status: 3
+tags: []
+user_id: mdriz

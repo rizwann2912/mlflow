@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8d33cb94ba324ac6a112052ce8a7da9c/artifacts
+end_time: 1749904737766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d33cb94ba324ac6a112052ce8a7da9c
+run_name: masked-grouse-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749904737700
+status: 4
+tags: []
+user_id: mdriz

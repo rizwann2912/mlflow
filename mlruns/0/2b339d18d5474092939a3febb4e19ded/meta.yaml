@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2b339d18d5474092939a3febb4e19ded/artifacts
+end_time: 1749905131348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b339d18d5474092939a3febb4e19ded
+run_name: auspicious-fox-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749905130772
+status: 3
+tags: []
+user_id: mdriz

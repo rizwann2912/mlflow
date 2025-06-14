@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/101409736128942126/939c09d4945a4e7498c22e83e4593e3d/artifacts
+end_time: 1749905956581
+entry_point_name: ''
+experiment_id: '101409736128942126'
+lifecycle_stage: active
+run_id: 939c09d4945a4e7498c22e83e4593e3d
+run_name: nebulous-mole-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749905955259
+status: 3
+tags: []
+user_id: mdriz

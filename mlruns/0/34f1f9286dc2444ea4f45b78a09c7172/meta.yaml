@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/34f1f9286dc2444ea4f45b78a09c7172/artifacts
+end_time: 1749905079895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34f1f9286dc2444ea4f45b78a09c7172
+run_name: colorful-croc-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749905079385
+status: 3
+tags: []
+user_id: mdriz

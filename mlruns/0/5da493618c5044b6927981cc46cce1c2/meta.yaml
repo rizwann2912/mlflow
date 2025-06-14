@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5da493618c5044b6927981cc46cce1c2/artifacts
+end_time: 1749903684182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da493618c5044b6927981cc46cce1c2
+run_name: capable-stoat-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749903684048
+status: 3
+tags: []
+user_id: mdriz

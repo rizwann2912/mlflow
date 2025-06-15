@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/141349392428837096/47b87bf5e1cb489ea05de3ebc1a6142a/artifacts
+end_time: 1750001853289
+entry_point_name: ''
+experiment_id: '141349392428837096'
+lifecycle_stage: active
+run_id: 47b87bf5e1cb489ea05de3ebc1a6142a
+run_name: welcoming-croc-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750001840348
+status: 3
+tags: []
+user_id: mdriz
